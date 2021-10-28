@@ -1,4 +1,4 @@
-echo jaffar > ../week01/file.txt
+echo zeiin > ../week01/file.txt
 link ../week01/file.txt _ex2.txt
 ls -i ../week01/file.txt
 find -inum 811347
